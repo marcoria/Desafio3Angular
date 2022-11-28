@@ -1,0 +1,19 @@
+header {
+    background-color: black;
+    height: 80px;
+}
+
+img {
+    height:80px;
+}
+button{
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.btn { 
+    float: right;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+}
